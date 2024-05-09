@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:rive/rive.dart';
-import 'package:youtube_animated_login/animation_enum.dart';
+
+
+import 'Animation_enum.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
